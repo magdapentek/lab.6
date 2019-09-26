@@ -21,8 +21,5 @@ public class Main {
         System.out.println("The color is " + color + ", number of speeds " + speeds + ", maxspeed " + maxspeed + " and weight " + weight + ".");
 
 
-
-
-
     }
 }
