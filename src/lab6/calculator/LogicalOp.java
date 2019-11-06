@@ -98,6 +98,10 @@ public class LogicalOp {
 
 
 //        8. Scrieti o metoda Java care sa primeasca o Lista si sa returneze cel mai mare numar din ea.
+    
+    public void exeight (List<Integer> numberlist){
+
+    }
 
 
 
